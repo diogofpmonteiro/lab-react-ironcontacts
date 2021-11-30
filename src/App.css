@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-img {
+  width: 100px;
+}
+
+.custom-btn {
+  margin: 15px 15px;
+  padding: 15px;
+  border: none;
+}
+
+.custom-table {
+  margin: auto;
+}
+
+.custth {
+  padding: 10px 15px;
+}
